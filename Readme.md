@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Felix Centeno</h1>
 <h3 align="center">I´m Electronics Engineer, who like to write code</h3>
 
--  This are the files and homework for the curses
+-  This are the files and homework for the curses:
+
  **Siemens LOGO! Specialist** 
+ 
  **Siemens S7 Specialist** 
 
 
