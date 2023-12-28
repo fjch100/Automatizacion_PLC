@@ -8,10 +8,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-<a href="https://www.siemens.com" target="_blank" rel="noreferrer"> <img src="/images_and_logos/Siemens.jpg" alt="Siemens" width="40" height="40"/> </a> 
+<a href="https://www.siemens.com" target="_blank" rel="noreferrer"> <img src="/images_and_logos/Siemens.jpg" alt="Siemens" width="80" height="40"/> </a> 
 <img src="/images_and_logos/siemens-logo-logo.svg" alt="Logo!8" width="80" height="40"/> 
 <img src="/images_and_logos/3415_0.jpg" alt="Tia Portal" width="80" height="40"/>
-<img src="/images_and_logos/Ladder_logo.png" alt="Ladder" width="60" height="40"/>
+<img src="/images_and_logos/Ladder_logo.png" alt="Ladder" width="80" height="40"/>
 <img src="/images_and_logos/FBD.jpg" alt="FBD" width="80" height="40"/>
 <img src="/images_and_logos/modbus.png" alt="Modbus" width="80" height="40"/>
 <img src="/images_and_logos/openplc.png" alt="Open PLC" width="80" height="40"/>
