@@ -1,0 +1,13 @@
+NOTAS SOBRE ALTERNANCIA DE BOMBAS CON TANQUE SISTERNA Y TANQUE ELEVADO
+==========================================================================
+
+CTC = Tanque cisterna o subterraneo, ( para surtir al tanque de uso)
+CTE = tanque elevado (de uso continuo)
+
+** el flotador del CTC es un NO, (estado inicial 0)
+** el flotaodr del CTE es un NC, (estado inicial 1)
+
+CONDICIONES:
+1) para que funcione el sistema, el CTC debe estar lleno y el CTE vacio
+2) si ambos estan vacios el sistema se detiene o no funciona
+
