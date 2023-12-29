@@ -3,12 +3,11 @@
 
 -  This are the files and homework for the curses:
 
- **Siemens LOGO! Specialist** 
+- **Siemens LOGO! Specialist** 
  
- **Siemens S7 Specialist** 
+- **Siemens S7 Specialist** 
 
-
-<img src="/images_and_logos/PLCs_logo.png" alt="Logo!8" width="150" height="150"/> 
+<h3 aling="center"><img src="/images_and_logos/PLCs_logo.png" alt="Logo!8" width="400" height="200"/></h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
